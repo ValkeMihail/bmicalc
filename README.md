@@ -1,1 +1,1 @@
-#### BMI Calculator with React and TypeScript
+# BMI Calculator with React and TypeScript
