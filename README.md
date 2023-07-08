@@ -22,4 +22,4 @@ A simple BMI calculator built with React and TypeScript, using Vite as the build
 
 `npm run dev`
 
-### Enjoy
+
