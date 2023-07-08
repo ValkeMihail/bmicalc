@@ -39,10 +39,10 @@ const BMITips = ({ bmi }: BMITipsProps) => {
     }
 
     return (
-        <div className='tipsContainer'>
+        <>
             <h2>Tips for a healthier you</h2>
             {tips}
-        </div>
+        </>
     );
 };
 

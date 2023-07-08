@@ -46,8 +46,7 @@ const BMICalculator = () => {
     );
 
     return (
-        <div className="bmi-calculator">
-            
+        <div className="bg-black border-2 border-gray-400 rounded-5 text-gray-400 text-lg w-96 py-8 px-0 text-center">
             <div className="input-wrapper">
                 <label htmlFor="height">Height (cm):</label>
                 <input
@@ -75,7 +74,7 @@ const BMICalculator = () => {
                 {bmi > 0 && (
                     <>
                         <p>Your BMI is {bmi}</p>
-                        <p style={{ color: lastWordColor }}>{resultText}</p>
+                        <div style={{ color: lastWordColor }}>{resultText}</div>
                     </>
                 )}
                 {bmi > 0 && <BMITips bmi={bmi} />}
