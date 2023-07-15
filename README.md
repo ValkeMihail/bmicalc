@@ -12,6 +12,10 @@ A simple BMI calculator built with React and TypeScript, using Vite as the build
 -**CSS**
 
 
+
+
+![bmicalculator](https://github.com/ValkeMihail/bmi-calculator-react/assets/72788498/4067afc7-d7a5-4801-af5d-6ac0fa30aa02)
+
 ## Instalation:
 
 ### Clone the repository:
